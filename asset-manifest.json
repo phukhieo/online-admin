@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/online-admin/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/online-admin/static/js/main.bb8b99a5.chunk.js",
-    "main.js.map": "/online-admin/static/js/main.bb8b99a5.chunk.js.map",
-    "runtime-main.js": "/online-admin/static/js/runtime-main.555aee0d.js",
-    "runtime-main.js.map": "/online-admin/static/js/runtime-main.555aee0d.js.map",
-    "static/js/2.c6ac9c89.chunk.js": "/online-admin/static/js/2.c6ac9c89.chunk.js",
-    "static/js/2.c6ac9c89.chunk.js.map": "/online-admin/static/js/2.c6ac9c89.chunk.js.map",
-    "static/js/3.3256b961.chunk.js": "/online-admin/static/js/3.3256b961.chunk.js",
-    "static/js/3.3256b961.chunk.js.map": "/online-admin/static/js/3.3256b961.chunk.js.map",
+    "main.css": "/online-admin/static/css/main.08828453.chunk.css",
+    "main.js": "/online-admin/static/js/main.1d4076f1.chunk.js",
+    "main.js.map": "/online-admin/static/js/main.1d4076f1.chunk.js.map",
+    "runtime-main.js": "/online-admin/static/js/runtime-main.260fc1ce.js",
+    "runtime-main.js.map": "/online-admin/static/js/runtime-main.260fc1ce.js.map",
+    "static/css/2.7d64f28b.chunk.css": "/online-admin/static/css/2.7d64f28b.chunk.css",
+    "static/js/2.793d6b97.chunk.js": "/online-admin/static/js/2.793d6b97.chunk.js",
+    "static/js/2.793d6b97.chunk.js.map": "/online-admin/static/js/2.793d6b97.chunk.js.map",
+    "static/js/3.c31731d4.chunk.js": "/online-admin/static/js/3.c31731d4.chunk.js",
+    "static/js/3.c31731d4.chunk.js.map": "/online-admin/static/js/3.c31731d4.chunk.js.map",
     "index.html": "/online-admin/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/online-admin/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.c6ac9c89.chunk.js.LICENSE.txt": "/online-admin/static/js/2.c6ac9c89.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/online-admin/static/media/logo.6ce24c58.svg"
+    "static/css/2.7d64f28b.chunk.css.map": "/online-admin/static/css/2.7d64f28b.chunk.css.map",
+    "static/css/main.08828453.chunk.css.map": "/online-admin/static/css/main.08828453.chunk.css.map",
+    "static/js/2.793d6b97.chunk.js.LICENSE.txt": "/online-admin/static/js/2.793d6b97.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.555aee0d.js",
-    "static/js/2.c6ac9c89.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.bb8b99a5.chunk.js"
+    "static/js/runtime-main.260fc1ce.js",
+    "static/css/2.7d64f28b.chunk.css",
+    "static/js/2.793d6b97.chunk.js",
+    "static/css/main.08828453.chunk.css",
+    "static/js/main.1d4076f1.chunk.js"
   ]
 }
