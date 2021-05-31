@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/online-admin/static/css/main.efe34e36.chunk.css",
-    "main.js": "/online-admin/static/js/main.13c8e7e0.chunk.js",
-    "main.js.map": "/online-admin/static/js/main.13c8e7e0.chunk.js.map",
-    "runtime-main.js": "/online-admin/static/js/runtime-main.65238e40.js",
-    "runtime-main.js.map": "/online-admin/static/js/runtime-main.65238e40.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/online-admin/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.4647439e.chunk.js": "/online-admin/static/js/2.4647439e.chunk.js",
-    "static/js/2.4647439e.chunk.js.map": "/online-admin/static/js/2.4647439e.chunk.js.map",
-    "static/js/3.b7ccf9b6.chunk.js": "/online-admin/static/js/3.b7ccf9b6.chunk.js",
-    "static/js/3.b7ccf9b6.chunk.js.map": "/online-admin/static/js/3.b7ccf9b6.chunk.js.map",
-    "index.html": "/online-admin/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/online-admin/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.efe34e36.chunk.css.map": "/online-admin/static/css/main.efe34e36.chunk.css.map",
-    "static/js/2.4647439e.chunk.js.LICENSE.txt": "/online-admin/static/js/2.4647439e.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/online-admin/static/media/Sarabun-Regular.6620546d.ttf",
-    "static/media/pk.01614eb8.png": "/online-admin/static/media/pk.01614eb8.png"
+    "main.css": "/static/css/main.197363ab.chunk.css",
+    "main.js": "/static/js/main.13c8e7e0.chunk.js",
+    "main.js.map": "/static/js/main.13c8e7e0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9d2d2f75.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9d2d2f75.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4647439e.chunk.js": "/static/js/2.4647439e.chunk.js",
+    "static/js/2.4647439e.chunk.js.map": "/static/js/2.4647439e.chunk.js.map",
+    "static/js/3.b7ccf9b6.chunk.js": "/static/js/3.b7ccf9b6.chunk.js",
+    "static/js/3.b7ccf9b6.chunk.js.map": "/static/js/3.b7ccf9b6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.197363ab.chunk.css.map": "/static/css/main.197363ab.chunk.css.map",
+    "static/js/2.4647439e.chunk.js.LICENSE.txt": "/static/js/2.4647439e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Sarabun-Regular.6620546d.ttf",
+    "static/media/pk.01614eb8.png": "/static/media/pk.01614eb8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.65238e40.js",
+    "static/js/runtime-main.9d2d2f75.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.4647439e.chunk.js",
-    "static/css/main.efe34e36.chunk.css",
+    "static/css/main.197363ab.chunk.css",
     "static/js/main.13c8e7e0.chunk.js"
   ]
 }
